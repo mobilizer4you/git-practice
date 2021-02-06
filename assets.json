@@ -1,0 +1,42 @@
+{
+  "assets" : [
+    {
+      "name" : "hintergrund",
+      "file" : "/assets/ck_img/hintergrund.png",
+      "type" : "image"
+    },
+    {
+      "name" : "roboter1",
+      "file" : "/assets/ck_img/roboter1.png",
+      "type" : "image"
+    },
+    {
+      "name" : "brokkoli",
+      "file" : "/assets/ck_img/brokkoli.png",
+      "type" : "image"
+    },
+    {
+      "name" : "schokolade",
+      "file" : "/assets/ck_img/schokolade.png",
+      "type" : "image"
+    },
+    {
+      "name" : "explosion1",
+      "file" : "/assets/ck_img/explosion1.png",
+      "type" : "image"
+    },
+    {
+      "name" : "miau",
+      "file" : "/assets/ck_audio/miau.mp3",
+      "type" : "audio"
+    },
+    {
+      "name" : "explodieren",
+      "file" : "/assets/ck_audio/explodieren.mp3",
+      "type" : "audio"
+    }
+
+
+  ]
+}
+
